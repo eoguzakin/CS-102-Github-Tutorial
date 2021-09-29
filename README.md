@@ -1,2 +1,1 @@
-# MyRepository
-My work and updates about them
+# CS 102 Github Tutorial
