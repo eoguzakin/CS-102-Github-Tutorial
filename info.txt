@@ -1,2 +1,85 @@
 Oğuz Akın - 22002893 - https://github.com/eoguzakin
 My favorite game is Europa Universalis IV
+Asus@DESKTOP-DD1F9TS MINGW64 ~/Desktop/CS 102 Github Tutorial/CS-102-Github-Tutorial (main)
+$ git log
+commit aac32586b15f5cefcf252a1739d23f433fc2c10e (HEAD -> main, origin/main, origin/HEAD)
+Merge: 486c582 fa06786
+Author: Oğuz Akın <oguz.akin@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:52:45 2021 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 486c582cc89465139db5dfeaf6e1e5feb8942ae0
+Merge: f8d151b 013a0af
+Author: eoguzakin <91607877+eoguzakin@users.noreply.github.com>
+Date:   Wed Sep 29 15:44:12 2021 +0300
+
+    Merge pull request #1 from eoguzakin/new_information
+
+    New information
+
+commit fa06786a98301c3851256d923e31ea2500b3c0c0
+Merge: f8d151b 013a0af
+Author: eoguzakin <91607877+eoguzakin@users.noreply.github.com>
+Date:   Wed Sep 29 15:44:12 2021 +0300
+
+    Merge pull request #1 from eoguzakin/new_information
+:...skipping...
+commit aac32586b15f5cefcf252a1739d23f433fc2c10e (HEAD -> main, origin/main, origin/HEAD)
+Merge: 486c582 fa06786
+Author: Oğuz Akın <oguz.akin@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:52:45 2021 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit 486c582cc89465139db5dfeaf6e1e5feb8942ae0
+Merge: f8d151b 013a0af
+Author: eoguzakin <91607877+eoguzakin@users.noreply.github.com>
+Date:   Wed Sep 29 15:44:12 2021 +0300
+
+    Merge pull request #1 from eoguzakin/new_information
+
+    New information
+
+commit fa06786a98301c3851256d923e31ea2500b3c0c0
+Merge: f8d151b 013a0af
+Author: eoguzakin <91607877+eoguzakin@users.noreply.github.com>
+Date:   Wed Sep 29 15:44:12 2021 +0300
+
+    Merge pull request #1 from eoguzakin/new_information
+
+    New information
+
+commit f8d151b8c7fae9348555717edbfb05052619dfca
+Author: Oğuz Akın <oguz.akin@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:42:14 2021 +0300
+
+    Oğuz Akın updated info.txt
+
+commit 013a0afbcce9602d847419daaae58f28e713d9ac (origin/new_information, new_information)
+Merge: 0ed1aee 9a5c895
+Author: Oğuz Akın <oguz.akin@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:38:45 2021 +0300
+
+    Merge remote-tracking branch 'origin/new_information' into new_information
+
+commit 0ed1aee2ed9f62da1ea6731dc1cf5fa7380f7c79
+Author: Oğuz Akın <oguz.akin@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:27:22 2021 +0300
+
+    Oğuz Akın updated info.txt
+
+commit 9a5c895fa98c6cce3bfb6aed034ca9a5b5edf218
+Author: Oğuz Akın <oguz.akin@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 15:27:22 2021 +0300
+
+    Oğuz Akın updated info.txt
+
+    Oğuz Akın updated info.txt
+
+commit 8e7adbcd39619372be4a7a21ea2f442b0e414f41
+Author: eoguzakin <91607877+eoguzakin@users.noreply.github.com>
+Date:   Wed Sep 29 15:20:44 2021 +0300
+
+    Update README.md
+:
